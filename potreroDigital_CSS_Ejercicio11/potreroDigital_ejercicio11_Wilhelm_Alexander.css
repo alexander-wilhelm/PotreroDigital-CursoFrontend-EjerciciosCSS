@@ -1,0 +1,30 @@
+#Titulo1 {
+  background: red;
+}
+#Titulo1 {
+  color: rgb(255,255,255);
+}
+#Titulo1{
+  text-decoration: underline;
+}
+#Titulo1{
+  font-family: Helvetica
+}
+#Titulo2{
+  color: White;
+}
+#Titulo2{
+  background: #3b83bd;
+}
+#Titulo2{
+  font-family: sans-serif;
+}
+#Parrafo{
+  font-weight: bold;
+}
+#Parrafo{
+  font-size: 16px;
+}
+#Parrafo{
+  background: #008f39;
+}

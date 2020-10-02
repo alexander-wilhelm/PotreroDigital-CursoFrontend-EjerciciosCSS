@@ -1,0 +1,46 @@
+*{
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+.inicio{
+  width: 80%;
+  height:auto;
+
+}
+.titulo{
+  font-family: sans-serif;
+  height: auto;
+}
+.titulo2{
+  font-family: sans-serif;
+  height: auto;
+}
+.caja2{
+  width: 100%;
+  height:auto;
+
+}
+.caja3{
+  width: 70%;
+  height:auto;
+
+}
+
+.parrafo{
+  font-size: 20px;
+  font-family: sans-serif;
+
+}
+.imagen{
+  width: 80%;
+  height: auto;
+}
+
+
+
+
+
+@media screen and (max-width: 1000px)
+
+}
